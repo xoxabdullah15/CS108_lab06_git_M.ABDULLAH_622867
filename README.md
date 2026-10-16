@@ -19,5 +19,5 @@ Course: CS-108 Introduction to ICT
 Lab: Lab 06 - Git \& GitHub
 Author: M.ABDULLAH
 
-Feature: Improved calculator with division-by-zero protection.
+Feature: Calculator supports addition, subtraction, multiplication, and division.
 
