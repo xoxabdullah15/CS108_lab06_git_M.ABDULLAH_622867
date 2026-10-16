@@ -1,7 +1,11 @@
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
 
-print("Sum:", float(a + b))
-print("Product:", float(a * b))
-print("difference", float(a - b))
-print("quotient", float(a / b))
+print("Sum:", a + b)
+print("Product:", a * b)
+print("Difference:", a - b)
+
+if b != 0:
+    print("Quotient:", a / b)
+else:
+    print("Cannot divide by zero!")
